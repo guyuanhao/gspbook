@@ -31,4 +31,7 @@
 
 ***
 
-* [5. FAQ](5.-faq.md)
+* [5. Others](5.-others/README.md)
+  * [FAQ](5.-others/faq.md)
+  * [Change Logs](5.-others/change-logs.md)
+  * [About Gudu SQLFlow](5.-others/about-gudu-sqlflow.md)
