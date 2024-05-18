@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/Aspose.Words.4d11c0f2-3851-4c3a-964f-55f3fdd47223.001.png" alt=""><figcaption></figcaption></figure>
 
-This document acts as a guide to using Gudu Software General SQL Parser for parsing, formatting, modifying, and analyzing the SQL code used to manipulate the data stored in a database.
+This document acts as a guide to using Gudu Software General SQL Parser (**GSP**) for parsing, formatting, modifying, and analyzing the SQL code used to manipulate the data stored in a database.
 
 ### Target Audience
 
