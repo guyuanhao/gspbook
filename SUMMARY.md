@@ -29,9 +29,8 @@
 * [SQL Expression Parse Tree Traversal](4.-advanced-usage/sql-expression-parse-tree-traversal.md)
 * [Other Useful Demos](4.-advanced-usage/other-useful-demos.md)
 
-***
+## 5. Others
 
-* [5. Others](5.-others/README.md)
-  * [FAQ](5.-others/faq.md)
-  * [Change Logs](5.-others/change-logs.md)
-  * [About Gudu SQLFlow](5.-others/about-gudu-sqlflow.md)
+* [FAQ](5.-others/faq.md)
+* [Change Logs](5.-others/change-logs.md)
+* [About Gudu SQLFlow](5.-others/about-gudu-sqlflow.md)
